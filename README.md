@@ -1,6 +1,4 @@
-## Hi there, I’m Bart Oostveen a.k.a. @25huizengek1 👋
-
-I know, the name is a bit random, made it up in elementary school
+## Hi there, I’m Bart Oostveen 👋
 
 ![README stats](https://bartoostveen.nl/readme)
 
